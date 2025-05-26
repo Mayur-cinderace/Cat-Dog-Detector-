@@ -1,4 +1,4 @@
-### 🐾 Cat-Dog Detector
+# 🐾 Cat-Dog Detector
 A Python-based deep learning application that classifies images as either a cat or a dog. Leveraging Convolutional Neural Networks (CNNs), this project provides an interactive interface for users to upload images and receive real-time predictions.
 
 ## 🚀 Features
